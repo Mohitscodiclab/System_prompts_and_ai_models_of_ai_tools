@@ -1,6 +1,6 @@
 # **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And Other Open-Sourced) System Prompts, Tools & AI Models**
 
-🚀 **Curated & Compiled by Mohit Kumar — the full official system prompts and internal toolkits used in leading AI agents like v0, Devin, Cursor, Same.dev, Windsurf, Replit & More.**
+🚀 **Curated & Compiled by My whole teaam — the full official system prompts and internal toolkits used in leading AI agents like v0, Devin, Cursor, Same.dev, Windsurf, Replit & More.**
 
 🧠 Over **6,500+ lines of system instructions, agent behavior logic, tools & prompt engineering strategies**.
 
