@@ -1,46 +1,59 @@
-# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models**  
+# **FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And Other Open-Sourced) System Prompts, Tools & AI Models**
 
-🚀 **I managed to obtain FULL official v0, Manus, Cursor, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent system prompts and internal tools.**
+🚀 **Curated & Compiled by Mohit Kumar — the full official system prompts and internal toolkits used in leading AI agents like v0, Devin, Cursor, Same.dev, Windsurf, Replit & More.**
 
-📜 Over **6,500+ lines** of insights into their structure and functionality.  
+🧠 Over **6,500+ lines of system instructions, agent behavior logic, tools & prompt engineering strategies**.
 
-## 📂 **Available Files**
-- **v0 Folder**  
-- **Manus Folder**
-- **Lovable Folder**
-- **Devin Folder**
-- **Same.dev Folder**
-- **Replit Folder**
-- **Windsurf Agent folder**
-- **VSCode (Copilot) Agent folder**
-- **Cursor Folder**
-- **Open Source prompts folder**
+> 👥 Maintained with support from my team, including contributor **x1xh (aka NotLucknite)**.
+
+---
+
+## 📁 **Included Folders**
+
+- **v0 Agent Folder**  
+- **Manus Agent Folder**  
+- **Lovable AI Folder**  
+- **Devin AI Folder**  
+- **Same.dev Agent Folder**  
+- **Replit AI Folder**  
+- **Windsurf Agent Folder**  
+- **VSCode (GitHub Copilot) Folder**  
+- **Cursor Agent Folder**  
+- **Open Source Prompt Collections**
   - Codex CLI
   - Cline
   - RooCode
 
 ---
 
-## 🛡️ **Security Notice for AI Startups**
+## 🛡️ AI Security Advisory
 
-⚠️ **If you're an AI startup, make sure your data is secure.** Exposed prompts or AI models can easily become a target for hackers.
+⚠️ **AI startups: Protect your system prompts and agent tools.**  
+Exposed internal configurations are often the first target in exploit attempts.
 
-🔐 **Interested in securing your AI systems?**  
-Check out **ZeroLeaks**, a service designed to help startups **identify and secure** leaks in system instructions, internal tools, and model configurations. **Get a free AI security audit** to ensure your AI is protected from vulnerabilities.
+🔐 Want help securing your prompts and internal tools?  
+**Check out ZeroLeaks** – an AI security audit service to detect vulnerabilities in:
+- Prompt exposure
+- Tool access control
+- Fine-tune model leak risks
 
-🔗 **Contact Us here:** 
+🧪 **Request a free audit** and protect your infrastructure from the ground up.
 
-- X: NotLucknite
+📩 Contact:  
+- X (formerly Twitter): [NotLucknite](https://x.com/NotLucknite)
+
 ---
 
-## 🛠 **Roadmap & Feedback**
+## 🛠 Roadmap & Feature Requests
 
-🚨 **Note:** We no longer use GitHub issues for roadmap and feedback.  
-Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featurebase.app/) to share your suggestions and track upcoming features.
+🚨 We now use Featurebase for roadmap planning.  
+🗓 [📌 View Roadmap & Submit Feedback](https://systemprompts.featurebase.app/)
 
-🆕 **LATEST UPDATE:** 21/04/2025 
+🆕 **Last Updated:** 21/04/2025
 
-## 📊 **Star History**
+---
+
+## 📊 Star History
 
 <a href="https://www.star-history.com/#x1xhlol/system-prompts-and-models-of-ai-tools&Date">
  <picture>
@@ -50,22 +63,27 @@ Please visit [System Prompts Roadmap & Feedback](https://systemprompts.featureba
  </picture>
 </a>
 
+---
+
 ## ❤️ Support the Project
 
-If you find this collection valuable and appreciate the effort involved in obtaining and sharing these insights, please consider supporting the project. Your contribution helps keep this resource updated and allows for further exploration.
+If this resource saves you hours of research or helps your startup, consider supporting the project!
 
-You can show your support via:
+**Support options:**
+- **PayPal:** `lucknitelol@proton.me`
+- **Crypto Donations:**
+  - **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
+  - **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
 
-*   **PayPal:** `lucknitelol@proton.me`
-*   **Cryptocurrency:**
-    *   **BTC:** `bc1q7zldmzjwspnaa48udvelwe6k3fef7xrrhg5625`
-    *   **LTC:** `LRWgqwEYDwqau1WeiTs6Mjg85NJ7m3fsdQ`
+🙏 Every bit helps continue deep prompt research and reverse-engineering work.
 
-Thank you for your support! 🙏
+---
 
+## 🔗 Connect With Us
 
-## 🔗 **Connect With Me**  
-✖ **X:** [NotLucknite](https://x.com/NotLucknite)  
-💬 **Discord:** `x1xh`  
+- ✖ X (Twitter): [NotLucknite](https://x.com/NotLucknite)  
+- 💬 Discord: `x1xh`
 
-⭐ **Drop a star if you find this useful!**
+---
+
+⭐ **Star the repo if it helped you – and spread the word!**  
